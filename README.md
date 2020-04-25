@@ -4,7 +4,7 @@ A C project made as a part of the Secure Programming with C course (UE18CS257C) 
 analysis. The objective of the project was to find and display the effects of vulnerabilities in the C programming language and
 the necessary steps required to prevent such errors in product development.
 
-Created and tested on Linux Environment :)
+*Created and tested on Linux Environment* :)
 
 # Encryption Algorithm
 
